@@ -1,0 +1,52 @@
+body{
+	background-color: red;
+	padding: 0;
+	margin: 0;
+}
+
+.page{
+	width: 1100px;
+}
+
+.navbar{
+	background-image: url('img/header_bg.png');
+	width: 1100px;
+}
+
+.logo{
+	margin-right: 380px;
+}
+
+.navbar ul{
+	display: inline;
+}
+
+.navbar li{
+	display: inline;
+	list-style: none;
+}
+
+.main{
+	background-image: url('img/banner_bg.png');
+	width: 1100px;
+	height: 350px;
+	display: block;
+
+}
+
+.banner{
+	float: left;
+}
+
+
+
+.slider {
+	display: inline-block;
+	width: 300px;
+	background: blue;
+}
+
+footer{
+	text-align: center;
+	background: url('img/footer_bg.png');
+}
